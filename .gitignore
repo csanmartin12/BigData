@@ -1,0 +1,42 @@
+# --- Datos del profesor (no se suben por tamaño: ~8,5 GB) ---
+*.zip
+*.fits
+*.fits.fz
+*.fz
+
+# --- Datos crudos del benchmark (101 MiB sin comprimir) ---
+# Se versiona su versión comprimida: entrega2/salidas/benchmark.tar.xz (8,5 MB).
+# Para restaurarla:  tar -xJf entrega2/salidas/benchmark.tar.xz -C entrega2/salidas/
+entrega2/salidas/benchmark/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# --- Entornos virtuales y locales ---
+.venv/
+venv/
+env/
+.venvs/
+.env
+.env.*
+!.env.example
+
+# --- Temporales de Office / LibreOffice ---
+~$*
+.~lock.*#
+
+# --- Editores y sistema ---
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
