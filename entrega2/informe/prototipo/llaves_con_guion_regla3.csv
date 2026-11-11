@@ -1,0 +1,522 @@
+llave,valor,n_archivos,fragmento_con_guion,clasificacion_regla3,tokens_resultantes
+CD1_1,-2.2797e-05,2,-2.2797e-05,cientifica,cd1_1 2 2797e 05
+CD1_2,-4.3437e-05,2,-4.3437e-05,cientifica,cd1_2 4 3437e 05
+CD2_1,-4.3437e-05,2,-4.3437e-05,cientifica,cd2_1 4 3437e 05
+CD2_2,2.2797e-05,2,2.2797e-05,cientifica,cd2_2 2 2797e 05
+ESO DET CHIP ID,ESO-Hawaii2RG,407,ESO-Hawaii2RG,HW,chip id eso_hawaii2rg
+ESO DET CHIP PXSPACE,1.8e-05,407,1.8e-05,cientifica,chip pxspace 1 8e 05
+ESO DET CHIP1 ID,CCD57-10IE,197,CCD57-10IE,HW,chip1 id ccd57_10ie
+ESO DET CHIP1 NAME,e2v CC44-82,696,CC44-82,HW,chip1 name e2v cc44_82
+ESO DET CHIP1 NAME,MIT/LL CCID-20,561,CCID-20,HW,chip1 name mit ll ccid_20
+ESO DET DID,"ESO-VLT-DIC.XSHOOT_CCD,ESO-VLT-DIC.FCDDCS",1257,ESO-VLT-DIC.XSHOOT_CCD,segmento no alfanumerico,did eso vlt dic xshoot_ccd eso vlt dic fcddcs
+ESO DET DID,"ESO-VLT-DIC.XSHOOT_CCD,ESO-VLT-DIC.FCDDCS",1257,ESO-VLT-DIC.FCDDCS,segmento no alfanumerico,did eso vlt dic xshoot_ccd eso vlt dic fcddcs
+ESO DET DID,ESO-VLT-DIC.IRACE-1.48,407,ESO-VLT-DIC.IRACE-1.48,segmento no alfanumerico,did eso vlt dic irace 1 48
+ESO DET DID,ESO-VLT-XSHOOT_C - Rev 349158,197,ESO-VLT-XSHOOT_C,segmento no alfanumerico,did eso vlt xshoot_c rev 349158
+ESO DET IRACE ADC1 NAME,ADC-RG,407,ADC-RG,sin digito,irace adc1 name adc rg
+ESO DET IRACE ADC2 NAME,ADC-RG,407,ADC-RG,sin digito,irace adc2 name adc rg
+ESO DET TLM4 END,5.7e-05,100,5.7e-05,cientifica,tlm4 end 5 7e 05
+ESO DET TLM4 END,3.3e-07,87,3.3e-07,cientifica,tlm4 end 3 3e 07
+ESO DET TLM4 END,3.5e-07,81,3.5e-07,cientifica,tlm4 end 3 5e 07
+ESO DET TLM4 END,3.4e-07,72,3.4e-07,cientifica,tlm4 end 3 4e 07
+ESO DET TLM4 END,4.4e-05,61,4.4e-05,cientifica,tlm4 end 4 4e 05
+ESO DET TLM4 END,2.8e-07,59,2.8e-07,cientifica,tlm4 end 2 8e 07
+ESO DET TLM4 END,5e-05,57,5e-05,cientifica,tlm4 end 5e 05
+ESO DET TLM4 END,4.1e-07,55,4.1e-07,cientifica,tlm4 end 4 1e 07
+ESO DET TLM4 END,3e-07,54,3e-07,cientifica,tlm4 end 3e 07
+ESO DET TLM4 END,4.9e-05,45,4.9e-05,cientifica,tlm4 end 4 9e 05
+ESO DET TLM4 END,4.8e-05,42,4.8e-05,cientifica,tlm4 end 4 8e 05
+ESO DET TLM4 END,3.1e-07,40,3.1e-07,cientifica,tlm4 end 3 1e 07
+ESO DET TLM4 END,5.3e-05,38,5.3e-05,cientifica,tlm4 end 5 3e 05
+ESO DET TLM4 END,3.8e-07,35,3.8e-07,cientifica,tlm4 end 3 8e 07
+ESO DET TLM4 END,3.9e-07,32,3.9e-07,cientifica,tlm4 end 3 9e 07
+ESO DET TLM4 END,2.9e-07,30,2.9e-07,cientifica,tlm4 end 2 9e 07
+ESO DET TLM4 END,5.6e-05,28,5.6e-05,cientifica,tlm4 end 5 6e 05
+ESO DET TLM4 END,5.2e-05,25,5.2e-05,cientifica,tlm4 end 5 2e 05
+ESO DET TLM4 END,4.5e-07,24,4.5e-07,cientifica,tlm4 end 4 5e 07
+ESO DET TLM4 END,3.7e-07,22,3.7e-07,cientifica,tlm4 end 3 7e 07
+ESO DET TLM4 END,4.3e-05,17,4.3e-05,cientifica,tlm4 end 4 3e 05
+ESO DET TLM4 END,4.2e-07,15,4.2e-07,cientifica,tlm4 end 4 2e 07
+ESO DET TLM4 END,6.5e-05,14,6.5e-05,cientifica,tlm4 end 6 5e 05
+ESO DET TLM4 END,6e-05,14,6e-05,cientifica,tlm4 end 6e 05
+ESO DET TLM4 END,4.5e-05,13,4.5e-05,cientifica,tlm4 end 4 5e 05
+ESO DET TLM4 END,5.4e-05,12,5.4e-05,cientifica,tlm4 end 5 4e 05
+ESO DET TLM4 END,4.4e-07,12,4.4e-07,cientifica,tlm4 end 4 4e 07
+ESO DET TLM4 END,3.6e-07,12,3.6e-07,cientifica,tlm4 end 3 6e 07
+ESO DET TLM4 END,4.3e-07,11,4.3e-07,cientifica,tlm4 end 4 3e 07
+ESO DET TLM4 END,6.2e-05,10,6.2e-05,cientifica,tlm4 end 6 2e 05
+ESO DET TLM4 END,3.2e-07,10,3.2e-07,cientifica,tlm4 end 3 2e 07
+ESO DET TLM4 END,2.6e-07,10,2.6e-07,cientifica,tlm4 end 2 6e 07
+ESO DET TLM4 END,4.6e-05,9,4.6e-05,cientifica,tlm4 end 4 6e 05
+ESO DET TLM4 END,5.5e-05,9,5.5e-05,cientifica,tlm4 end 5 5e 05
+ESO DET TLM4 END,4e-07,8,4e-07,cientifica,tlm4 end 4e 07
+ESO DET TLM4 END,4.7e-05,7,4.7e-05,cientifica,tlm4 end 4 7e 05
+ESO DET TLM4 END,5.1e-05,7,5.1e-05,cientifica,tlm4 end 5 1e 05
+ESO DET TLM4 END,5.8e-05,6,5.8e-05,cientifica,tlm4 end 5 8e 05
+ESO DET TLM4 END,5.8e-07,6,5.8e-07,cientifica,tlm4 end 5 8e 07
+ESO DET TLM4 END,4.2e-05,6,4.2e-05,cientifica,tlm4 end 4 2e 05
+ESO DET TLM4 END,2.4e-07,6,2.4e-07,cientifica,tlm4 end 2 4e 07
+ESO DET TLM4 END,6.7e-05,5,6.7e-05,cientifica,tlm4 end 6 7e 05
+ESO DET TLM4 END,6.8e-05,5,6.8e-05,cientifica,tlm4 end 6 8e 05
+ESO DET TLM4 END,7e-05,5,7e-05,cientifica,tlm4 end 7e 05
+ESO DET TLM4 END,7.2e-05,5,7.2e-05,cientifica,tlm4 end 7 2e 05
+ESO DET TLM4 END,7.3e-05,5,7.3e-05,cientifica,tlm4 end 7 3e 05
+ESO DET TLM4 END,6.6e-05,5,6.6e-05,cientifica,tlm4 end 6 6e 05
+ESO DET TLM4 END,6.1e-05,5,6.1e-05,cientifica,tlm4 end 6 1e 05
+ESO DET TLM4 END,2.7e-07,5,2.7e-07,cientifica,tlm4 end 2 7e 07
+ESO DET TLM4 END,6.3e-05,4,6.3e-05,cientifica,tlm4 end 6 3e 05
+ESO DET TLM4 END,2.5e-07,4,2.5e-07,cientifica,tlm4 end 2 5e 07
+ESO DET TLM4 END,5.9e-07,3,5.9e-07,cientifica,tlm4 end 5 9e 07
+ESO DET TLM4 END,4.7e-07,2,4.7e-07,cientifica,tlm4 end 4 7e 07
+ESO DET TLM4 END,6.4e-05,2,6.4e-05,cientifica,tlm4 end 6 4e 05
+ESO DET TLM4 END,2.3e-07,1,2.3e-07,cientifica,tlm4 end 2 3e 07
+ESO DET TLM4 START,5.7e-05,99,5.7e-05,cientifica,tlm4 start 5 7e 05
+ESO DET TLM4 START,3.3e-07,88,3.3e-07,cientifica,tlm4 start 3 3e 07
+ESO DET TLM4 START,3.5e-07,82,3.5e-07,cientifica,tlm4 start 3 5e 07
+ESO DET TLM4 START,5.2e-05,81,5.2e-05,cientifica,tlm4 start 5 2e 05
+ESO DET TLM4 START,3.4e-07,75,3.4e-07,cientifica,tlm4 start 3 4e 07
+ESO DET TLM4 START,4.4e-05,60,4.4e-05,cientifica,tlm4 start 4 4e 05
+ESO DET TLM4 START,2.8e-07,59,2.8e-07,cientifica,tlm4 start 2 8e 07
+ESO DET TLM4 START,5e-05,59,5e-05,cientifica,tlm4 start 5e 05
+ESO DET TLM4 START,3e-07,52,3e-07,cientifica,tlm4 start 3e 07
+ESO DET TLM4 START,4.8e-05,42,4.8e-05,cientifica,tlm4 start 4 8e 05
+ESO DET TLM4 START,4.3e-07,41,4.3e-07,cientifica,tlm4 start 4 3e 07
+ESO DET TLM4 START,3.1e-07,40,3.1e-07,cientifica,tlm4 start 3 1e 07
+ESO DET TLM4 START,2.9e-07,32,2.9e-07,cientifica,tlm4 start 2 9e 07
+ESO DET TLM4 START,5.9e-07,32,5.9e-07,cientifica,tlm4 start 5 9e 07
+ESO DET TLM4 START,3.9e-07,30,3.9e-07,cientifica,tlm4 start 3 9e 07
+ESO DET TLM4 START,4.1e-07,25,4.1e-07,cientifica,tlm4 start 4 1e 07
+ESO DET TLM4 START,5.6e-05,25,5.6e-05,cientifica,tlm4 start 5 6e 05
+ESO DET TLM4 START,4.5e-07,24,4.5e-07,cientifica,tlm4 start 4 5e 07
+ESO DET TLM4 START,3.7e-07,20,3.7e-07,cientifica,tlm4 start 3 7e 07
+ESO DET TLM4 START,4.3e-05,18,4.3e-05,cientifica,tlm4 start 4 3e 05
+ESO DET TLM4 START,4.9e-05,16,4.9e-05,cientifica,tlm4 start 4 9e 05
+ESO DET TLM4 START,6e-05,16,6e-05,cientifica,tlm4 start 6e 05
+ESO DET TLM4 START,4.5e-05,15,4.5e-05,cientifica,tlm4 start 4 5e 05
+ESO DET TLM4 START,6.5e-05,14,6.5e-05,cientifica,tlm4 start 6 5e 05
+ESO DET TLM4 START,5.4e-05,13,5.4e-05,cientifica,tlm4 start 5 4e 05
+ESO DET TLM4 START,4.2e-07,13,4.2e-07,cientifica,tlm4 start 4 2e 07
+ESO DET TLM4 START,4.4e-07,13,4.4e-07,cientifica,tlm4 start 4 4e 07
+ESO DET TLM4 START,3.6e-07,12,3.6e-07,cientifica,tlm4 start 3 6e 07
+ESO DET TLM4 START,5.5e-05,12,5.5e-05,cientifica,tlm4 start 5 5e 05
+ESO DET TLM4 START,4e-07,10,4e-07,cientifica,tlm4 start 4e 07
+ESO DET TLM4 START,2.6e-07,10,2.6e-07,cientifica,tlm4 start 2 6e 07
+ESO DET TLM4 START,4.7e-05,9,4.7e-05,cientifica,tlm4 start 4 7e 05
+ESO DET TLM4 START,6.2e-05,9,6.2e-05,cientifica,tlm4 start 6 2e 05
+ESO DET TLM4 START,3.2e-07,9,3.2e-07,cientifica,tlm4 start 3 2e 07
+ESO DET TLM4 START,5.3e-05,7,5.3e-05,cientifica,tlm4 start 5 3e 05
+ESO DET TLM4 START,5.1e-05,7,5.1e-05,cientifica,tlm4 start 5 1e 05
+ESO DET TLM4 START,4.6e-05,7,4.6e-05,cientifica,tlm4 start 4 6e 05
+ESO DET TLM4 START,5.8e-05,6,5.8e-05,cientifica,tlm4 start 5 8e 05
+ESO DET TLM4 START,5.8e-07,6,5.8e-07,cientifica,tlm4 start 5 8e 07
+ESO DET TLM4 START,4.2e-05,6,4.2e-05,cientifica,tlm4 start 4 2e 05
+ESO DET TLM4 START,2.4e-07,6,2.4e-07,cientifica,tlm4 start 2 4e 07
+ESO DET TLM4 START,6.7e-05,5,6.7e-05,cientifica,tlm4 start 6 7e 05
+ESO DET TLM4 START,6.8e-05,5,6.8e-05,cientifica,tlm4 start 6 8e 05
+ESO DET TLM4 START,7e-05,5,7e-05,cientifica,tlm4 start 7e 05
+ESO DET TLM4 START,7.2e-05,5,7.2e-05,cientifica,tlm4 start 7 2e 05
+ESO DET TLM4 START,7.3e-05,5,7.3e-05,cientifica,tlm4 start 7 3e 05
+ESO DET TLM4 START,3.8e-07,5,3.8e-07,cientifica,tlm4 start 3 8e 07
+ESO DET TLM4 START,6.6e-05,5,6.6e-05,cientifica,tlm4 start 6 6e 05
+ESO DET TLM4 START,2.7e-07,5,2.7e-07,cientifica,tlm4 start 2 7e 07
+ESO DET TLM4 START,6.1e-05,4,6.1e-05,cientifica,tlm4 start 6 1e 05
+ESO DET TLM4 START,6.3e-05,4,6.3e-05,cientifica,tlm4 start 6 3e 05
+ESO DET TLM4 START,2.5e-07,4,2.5e-07,cientifica,tlm4 start 2 5e 07
+ESO DET TLM4 START,4.7e-07,2,4.7e-07,cientifica,tlm4 start 4 7e 07
+ESO DET TLM4 START,6.4e-05,2,6.4e-05,cientifica,tlm4 start 6 4e 05
+ESO DET TLM4 START,2.3e-07,1,2.3e-07,cientifica,tlm4 start 2 3e 07
+ESO DPR TECH,"ECHELLE,MULTI-PINHOLE",9,MULTI-PINHOLE,sin digito,dpr tech echelle multi pinhole
+ESO INS DID1,XSHOOTER_ICS-402729,1861,XSHOOTER_ICS-402729,segmento no alfanumerico,did1 xshooter_ics 402729
+ESO INS DID2,PRIMARY-FITS-1.2,1861,PRIMARY-FITS-1.2,segmento no alfanumerico,did2 primary fits 1 2
+ESO INS SENS60 VAL,1.01e-05,87,1.01e-05,cientifica,sens60 val 1 01e 05
+ESO INS SENS60 VAL,1.23e-05,38,1.23e-05,cientifica,sens60 val 1 23e 05
+ESO INS SENS60 VAL,1.2e-05,37,1.2e-05,cientifica,sens60 val 1 2e 05
+ESO INS SENS60 VAL,1.22e-05,34,1.22e-05,cientifica,sens60 val 1 22e 05
+ESO INS SENS60 VAL,1.5e-05,31,1.5e-05,cientifica,sens60 val 1 5e 05
+ESO INS SENS60 VAL,1.03e-05,30,1.03e-05,cientifica,sens60 val 1 03e 05
+ESO INS SENS60 VAL,1.49e-05,30,1.49e-05,cientifica,sens60 val 1 49e 05
+ESO INS SENS60 VAL,1.51e-05,30,1.51e-05,cientifica,sens60 val 1 51e 05
+ESO INS SENS60 VAL,1.21e-05,29,1.21e-05,cientifica,sens60 val 1 21e 05
+ESO INS SENS60 VAL,1e-05,28,1e-05,cientifica,sens60 val 1e 05
+ESO INS SENS60 VAL,1.08e-05,27,1.08e-05,cientifica,sens60 val 1 08e 05
+ESO INS SENS60 VAL,1.02e-05,25,1.02e-05,cientifica,sens60 val 1 02e 05
+ESO INS SENS60 VAL,1.54e-05,25,1.54e-05,cientifica,sens60 val 1 54e 05
+ESO INS SENS60 VAL,1.24e-05,25,1.24e-05,cientifica,sens60 val 1 24e 05
+ESO INS SENS60 VAL,1.48e-05,25,1.48e-05,cientifica,sens60 val 1 48e 05
+ESO INS SENS60 VAL,1.06e-05,23,1.06e-05,cientifica,sens60 val 1 06e 05
+ESO INS SENS60 VAL,1.52e-05,22,1.52e-05,cientifica,sens60 val 1 52e 05
+ESO INS SENS60 VAL,1.05e-05,19,1.05e-05,cientifica,sens60 val 1 05e 05
+ESO INS SENS60 VAL,1.07e-05,19,1.07e-05,cientifica,sens60 val 1 07e 05
+ESO INS SENS60 VAL,9.97e-06,19,9.97e-06,cientifica,sens60 val 9 97e 06
+ESO INS SENS60 VAL,1.04e-05,17,1.04e-05,cientifica,sens60 val 1 04e 05
+ESO INS SENS60 VAL,1.53e-05,17,1.53e-05,cientifica,sens60 val 1 53e 05
+ESO INS SENS60 VAL,1.16e-05,17,1.16e-05,cientifica,sens60 val 1 16e 05
+ESO INS SENS60 VAL,1.1e-05,16,1.1e-05,cientifica,sens60 val 1 1e 05
+ESO INS SENS60 VAL,1.55e-05,16,1.55e-05,cientifica,sens60 val 1 55e 05
+ESO INS SENS60 VAL,1.17e-05,15,1.17e-05,cientifica,sens60 val 1 17e 05
+ESO INS SENS60 VAL,1.3e-05,14,1.3e-05,cientifica,sens60 val 1 3e 05
+ESO INS SENS60 VAL,1.25e-05,14,1.25e-05,cientifica,sens60 val 1 25e 05
+ESO INS SENS60 VAL,1.09e-05,13,1.09e-05,cientifica,sens60 val 1 09e 05
+ESO INS SENS60 VAL,1.57e-05,13,1.57e-05,cientifica,sens60 val 1 57e 05
+ESO INS SENS60 VAL,1.56e-05,12,1.56e-05,cientifica,sens60 val 1 56e 05
+ESO INS SENS60 VAL,8.56e-06,12,8.56e-06,cientifica,sens60 val 8 56e 06
+ESO INS SENS60 VAL,7.83e-06,12,7.83e-06,cientifica,sens60 val 7 83e 06
+ESO INS SENS60 VAL,1.41e-05,11,1.41e-05,cientifica,sens60 val 1 41e 05
+ESO INS SENS60 VAL,1.42e-05,11,1.42e-05,cientifica,sens60 val 1 42e 05
+ESO INS SENS60 VAL,9.56e-06,11,9.56e-06,cientifica,sens60 val 9 56e 06
+ESO INS SENS60 VAL,1.95e-05,11,1.95e-05,cientifica,sens60 val 1 95e 05
+ESO INS SENS60 VAL,2e-05,11,2e-05,cientifica,sens60 val 2e 05
+ESO INS SENS60 VAL,1.31e-05,11,1.31e-05,cientifica,sens60 val 1 31e 05
+ESO INS SENS60 VAL,8.38e-06,11,8.38e-06,cientifica,sens60 val 8 38e 06
+ESO INS SENS60 VAL,1.36e-05,10,1.36e-05,cientifica,sens60 val 1 36e 05
+ESO INS SENS60 VAL,1.32e-05,10,1.32e-05,cientifica,sens60 val 1 32e 05
+ESO INS SENS60 VAL,1.19e-05,10,1.19e-05,cientifica,sens60 val 1 19e 05
+ESO INS SENS60 VAL,9.42e-06,10,9.42e-06,cientifica,sens60 val 9 42e 06
+ESO INS SENS60 VAL,1.29e-05,9,1.29e-05,cientifica,sens60 val 1 29e 05
+ESO INS SENS60 VAL,9.89e-06,9,9.89e-06,cientifica,sens60 val 9 89e 06
+ESO INS SENS60 VAL,1.99e-05,9,1.99e-05,cientifica,sens60 val 1 99e 05
+ESO INS SENS60 VAL,2.05e-05,9,2.05e-05,cientifica,sens60 val 2 05e 05
+ESO INS SENS60 VAL,1.11e-05,9,1.11e-05,cientifica,sens60 val 1 11e 05
+ESO INS SENS60 VAL,8.21e-06,9,8.21e-06,cientifica,sens60 val 8 21e 06
+ESO INS SENS60 VAL,8.98e-06,9,8.98e-06,cientifica,sens60 val 8 98e 06
+ESO INS SENS60 VAL,2.03e-05,8,2.03e-05,cientifica,sens60 val 2 03e 05
+ESO INS SENS60 VAL,2.04e-05,8,2.04e-05,cientifica,sens60 val 2 04e 05
+ESO INS SENS60 VAL,9.9e-06,8,9.9e-06,cientifica,sens60 val 9 9e 06
+ESO INS SENS60 VAL,7.82e-06,8,7.82e-06,cientifica,sens60 val 7 82e 06
+ESO INS SENS60 VAL,9.83e-06,8,9.83e-06,cientifica,sens60 val 9 83e 06
+ESO INS SENS60 VAL,7.76e-06,8,7.76e-06,cientifica,sens60 val 7 76e 06
+ESO INS SENS60 VAL,8.37e-06,8,8.37e-06,cientifica,sens60 val 8 37e 06
+ESO INS SENS60 VAL,1.84e-05,7,1.84e-05,cientifica,sens60 val 1 84e 05
+ESO INS SENS60 VAL,1.87e-05,7,1.87e-05,cientifica,sens60 val 1 87e 05
+ESO INS SENS60 VAL,2.01e-05,7,2.01e-05,cientifica,sens60 val 2 01e 05
+ESO INS SENS60 VAL,1.33e-05,7,1.33e-05,cientifica,sens60 val 1 33e 05
+ESO INS SENS60 VAL,9.84e-06,7,9.84e-06,cientifica,sens60 val 9 84e 06
+ESO INS SENS60 VAL,9.67e-06,7,9.67e-06,cientifica,sens60 val 9 67e 06
+ESO INS SENS60 VAL,9.33e-06,7,9.33e-06,cientifica,sens60 val 9 33e 06
+ESO INS SENS60 VAL,9.3e-06,7,9.3e-06,cientifica,sens60 val 9 3e 06
+ESO INS SENS60 VAL,9.4e-06,7,9.4e-06,cientifica,sens60 val 9 4e 06
+ESO INS SENS60 VAL,8.39e-06,7,8.39e-06,cientifica,sens60 val 8 39e 06
+ESO INS SENS60 VAL,8.51e-06,7,8.51e-06,cientifica,sens60 val 8 51e 06
+ESO INS SENS60 VAL,8.89e-06,7,8.89e-06,cientifica,sens60 val 8 89e 06
+ESO INS SENS60 VAL,9.76e-06,6,9.76e-06,cientifica,sens60 val 9 76e 06
+ESO INS SENS60 VAL,9.99e-06,6,9.99e-06,cientifica,sens60 val 9 99e 06
+ESO INS SENS60 VAL,2.02e-05,6,2.02e-05,cientifica,sens60 val 2 02e 05
+ESO INS SENS60 VAL,2.08e-05,6,2.08e-05,cientifica,sens60 val 2 08e 05
+ESO INS SENS60 VAL,1.47e-05,6,1.47e-05,cientifica,sens60 val 1 47e 05
+ESO INS SENS60 VAL,9.69e-06,6,9.69e-06,cientifica,sens60 val 9 69e 06
+ESO INS SENS60 VAL,7.78e-06,6,7.78e-06,cientifica,sens60 val 7 78e 06
+ESO INS SENS60 VAL,1.18e-05,6,1.18e-05,cientifica,sens60 val 1 18e 05
+ESO INS SENS60 VAL,9.37e-06,6,9.37e-06,cientifica,sens60 val 9 37e 06
+ESO INS SENS60 VAL,7.77e-06,6,7.77e-06,cientifica,sens60 val 7 77e 06
+ESO INS SENS60 VAL,1.43e-05,6,1.43e-05,cientifica,sens60 val 1 43e 05
+ESO INS SENS60 VAL,1.45e-05,6,1.45e-05,cientifica,sens60 val 1 45e 05
+ESO INS SENS60 VAL,9.43e-06,6,9.43e-06,cientifica,sens60 val 9 43e 06
+ESO INS SENS60 VAL,7.6e-06,6,7.6e-06,cientifica,sens60 val 7 6e 06
+ESO INS SENS60 VAL,9.38e-06,6,9.38e-06,cientifica,sens60 val 9 38e 06
+ESO INS SENS60 VAL,8.8e-06,6,8.8e-06,cientifica,sens60 val 8 8e 06
+ESO INS SENS60 VAL,1.35e-05,5,1.35e-05,cientifica,sens60 val 1 35e 05
+ESO INS SENS60 VAL,1.83e-05,5,1.83e-05,cientifica,sens60 val 1 83e 05
+ESO INS SENS60 VAL,1.88e-05,5,1.88e-05,cientifica,sens60 val 1 88e 05
+ESO INS SENS60 VAL,1.89e-05,5,1.89e-05,cientifica,sens60 val 1 89e 05
+ESO INS SENS60 VAL,1.96e-05,5,1.96e-05,cientifica,sens60 val 1 96e 05
+ESO INS SENS60 VAL,2.06e-05,5,2.06e-05,cientifica,sens60 val 2 06e 05
+ESO INS SENS60 VAL,2.07e-05,5,2.07e-05,cientifica,sens60 val 2 07e 05
+ESO INS SENS60 VAL,1.44e-05,5,1.44e-05,cientifica,sens60 val 1 44e 05
+ESO INS SENS60 VAL,1.4e-05,5,1.4e-05,cientifica,sens60 val 1 4e 05
+ESO INS SENS60 VAL,9.94e-06,5,9.94e-06,cientifica,sens60 val 9 94e 06
+ESO INS SENS60 VAL,9.57e-06,5,9.57e-06,cientifica,sens60 val 9 57e 06
+ESO INS SENS60 VAL,8.9e-06,5,8.9e-06,cientifica,sens60 val 8 9e 06
+ESO INS SENS60 VAL,8.24e-06,5,8.24e-06,cientifica,sens60 val 8 24e 06
+ESO INS SENS60 VAL,7.3e-06,5,7.3e-06,cientifica,sens60 val 7 3e 06
+ESO INS SENS60 VAL,6.63e-06,5,6.63e-06,cientifica,sens60 val 6 63e 06
+ESO INS SENS60 VAL,7.8e-06,5,7.8e-06,cientifica,sens60 val 7 8e 06
+ESO INS SENS60 VAL,8.04e-06,5,8.04e-06,cientifica,sens60 val 8 04e 06
+ESO INS SENS60 VAL,8.22e-06,5,8.22e-06,cientifica,sens60 val 8 22e 06
+ESO INS SENS60 VAL,1.15e-05,5,1.15e-05,cientifica,sens60 val 1 15e 05
+ESO INS SENS60 VAL,1.26e-05,5,1.26e-05,cientifica,sens60 val 1 26e 05
+ESO INS SENS60 VAL,1.39e-05,5,1.39e-05,cientifica,sens60 val 1 39e 05
+ESO INS SENS60 VAL,1.46e-05,5,1.46e-05,cientifica,sens60 val 1 46e 05
+ESO INS SENS60 VAL,8.42e-06,5,8.42e-06,cientifica,sens60 val 8 42e 06
+ESO INS SENS60 VAL,8.79e-06,5,8.79e-06,cientifica,sens60 val 8 79e 06
+ESO INS SENS60 VAL,9.39e-06,5,9.39e-06,cientifica,sens60 val 9 39e 06
+ESO INS SENS60 VAL,9.46e-06,5,9.46e-06,cientifica,sens60 val 9 46e 06
+ESO INS SENS60 VAL,9.48e-06,5,9.48e-06,cientifica,sens60 val 9 48e 06
+ESO INS SENS60 VAL,9.55e-06,5,9.55e-06,cientifica,sens60 val 9 55e 06
+ESO INS SENS60 VAL,9.59e-06,4,9.59e-06,cientifica,sens60 val 9 59e 06
+ESO INS SENS60 VAL,9.65e-06,4,9.65e-06,cientifica,sens60 val 9 65e 06
+ESO INS SENS60 VAL,9.72e-06,4,9.72e-06,cientifica,sens60 val 9 72e 06
+ESO INS SENS60 VAL,9.8e-06,4,9.8e-06,cientifica,sens60 val 9 8e 06
+ESO INS SENS60 VAL,9.78e-06,4,9.78e-06,cientifica,sens60 val 9 78e 06
+ESO INS SENS60 VAL,9.79e-06,4,9.79e-06,cientifica,sens60 val 9 79e 06
+ESO INS SENS60 VAL,1.86e-05,4,1.86e-05,cientifica,sens60 val 1 86e 05
+ESO INS SENS60 VAL,1.91e-05,4,1.91e-05,cientifica,sens60 val 1 91e 05
+ESO INS SENS60 VAL,1.92e-05,4,1.92e-05,cientifica,sens60 val 1 92e 05
+ESO INS SENS60 VAL,1.94e-05,4,1.94e-05,cientifica,sens60 val 1 94e 05
+ESO INS SENS60 VAL,1.97e-05,4,1.97e-05,cientifica,sens60 val 1 97e 05
+ESO INS SENS60 VAL,1.98e-05,4,1.98e-05,cientifica,sens60 val 1 98e 05
+ESO INS SENS60 VAL,2.09e-05,4,2.09e-05,cientifica,sens60 val 2 09e 05
+ESO INS SENS60 VAL,9.66e-06,4,9.66e-06,cientifica,sens60 val 9 66e 06
+ESO INS SENS60 VAL,9.52e-06,4,9.52e-06,cientifica,sens60 val 9 52e 06
+ESO INS SENS60 VAL,8.06e-06,4,8.06e-06,cientifica,sens60 val 8 06e 06
+ESO INS SENS60 VAL,8.18e-06,4,8.18e-06,cientifica,sens60 val 8 18e 06
+ESO INS SENS60 VAL,8.25e-06,4,8.25e-06,cientifica,sens60 val 8 25e 06
+ESO INS SENS60 VAL,9.92e-06,4,9.92e-06,cientifica,sens60 val 9 92e 06
+ESO INS SENS60 VAL,7.14e-06,4,7.14e-06,cientifica,sens60 val 7 14e 06
+ESO INS SENS60 VAL,6.87e-06,4,6.87e-06,cientifica,sens60 val 6 87e 06
+ESO INS SENS60 VAL,6.84e-06,4,6.84e-06,cientifica,sens60 val 6 84e 06
+ESO INS SENS60 VAL,7.66e-06,4,7.66e-06,cientifica,sens60 val 7 66e 06
+ESO INS SENS60 VAL,7.9e-06,4,7.9e-06,cientifica,sens60 val 7 9e 06
+ESO INS SENS60 VAL,8.11e-06,4,8.11e-06,cientifica,sens60 val 8 11e 06
+ESO INS SENS60 VAL,8.19e-06,4,8.19e-06,cientifica,sens60 val 8 19e 06
+ESO INS SENS60 VAL,9.34e-06,4,9.34e-06,cientifica,sens60 val 9 34e 06
+ESO INS SENS60 VAL,1.14e-05,4,1.14e-05,cientifica,sens60 val 1 14e 05
+ESO INS SENS60 VAL,1.34e-05,4,1.34e-05,cientifica,sens60 val 1 34e 05
+ESO INS SENS60 VAL,9.96e-06,4,9.96e-06,cientifica,sens60 val 9 96e 06
+ESO INS SENS60 VAL,9.81e-06,4,9.81e-06,cientifica,sens60 val 9 81e 06
+ESO INS SENS60 VAL,7.81e-06,4,7.81e-06,cientifica,sens60 val 7 81e 06
+ESO INS SENS60 VAL,7.84e-06,4,7.84e-06,cientifica,sens60 val 7 84e 06
+ESO INS SENS60 VAL,8.08e-06,4,8.08e-06,cientifica,sens60 val 8 08e 06
+ESO INS SENS60 VAL,7.73e-06,4,7.73e-06,cientifica,sens60 val 7 73e 06
+ESO INS SENS60 VAL,9.58e-06,3,9.58e-06,cientifica,sens60 val 9 58e 06
+ESO INS SENS60 VAL,9.62e-06,3,9.62e-06,cientifica,sens60 val 9 62e 06
+ESO INS SENS60 VAL,9.68e-06,3,9.68e-06,cientifica,sens60 val 9 68e 06
+ESO INS SENS60 VAL,9.95e-06,3,9.95e-06,cientifica,sens60 val 9 95e 06
+ESO INS SENS60 VAL,1.85e-05,3,1.85e-05,cientifica,sens60 val 1 85e 05
+ESO INS SENS60 VAL,1.9e-05,3,1.9e-05,cientifica,sens60 val 1 9e 05
+ESO INS SENS60 VAL,1.27e-05,3,1.27e-05,cientifica,sens60 val 1 27e 05
+ESO INS SENS60 VAL,9.5e-06,3,9.5e-06,cientifica,sens60 val 9 5e 06
+ESO INS SENS60 VAL,8.86e-06,3,8.86e-06,cientifica,sens60 val 8 86e 06
+ESO INS SENS60 VAL,8.23e-06,3,8.23e-06,cientifica,sens60 val 8 23e 06
+ESO INS SENS60 VAL,8.13e-06,3,8.13e-06,cientifica,sens60 val 8 13e 06
+ESO INS SENS60 VAL,8.14e-06,3,8.14e-06,cientifica,sens60 val 8 14e 06
+ESO INS SENS60 VAL,7.29e-06,3,7.29e-06,cientifica,sens60 val 7 29e 06
+ESO INS SENS60 VAL,7.31e-06,3,7.31e-06,cientifica,sens60 val 7 31e 06
+ESO INS SENS60 VAL,7.13e-06,3,7.13e-06,cientifica,sens60 val 7 13e 06
+ESO INS SENS60 VAL,7.12e-06,3,7.12e-06,cientifica,sens60 val 7 12e 06
+ESO INS SENS60 VAL,6.85e-06,3,6.85e-06,cientifica,sens60 val 6 85e 06
+ESO INS SENS60 VAL,6.62e-06,3,6.62e-06,cientifica,sens60 val 6 62e 06
+ESO INS SENS60 VAL,7.65e-06,3,7.65e-06,cientifica,sens60 val 7 65e 06
+ESO INS SENS60 VAL,7.72e-06,3,7.72e-06,cientifica,sens60 val 7 72e 06
+ESO INS SENS60 VAL,7.75e-06,3,7.75e-06,cientifica,sens60 val 7 75e 06
+ESO INS SENS60 VAL,7.85e-06,3,7.85e-06,cientifica,sens60 val 7 85e 06
+ESO INS SENS60 VAL,7.92e-06,3,7.92e-06,cientifica,sens60 val 7 92e 06
+ESO INS SENS60 VAL,8.01e-06,3,8.01e-06,cientifica,sens60 val 8 01e 06
+ESO INS SENS60 VAL,8.16e-06,3,8.16e-06,cientifica,sens60 val 8 16e 06
+ESO INS SENS60 VAL,8.17e-06,3,8.17e-06,cientifica,sens60 val 8 17e 06
+ESO INS SENS60 VAL,8.31e-06,3,8.31e-06,cientifica,sens60 val 8 31e 06
+ESO INS SENS60 VAL,8.33e-06,3,8.33e-06,cientifica,sens60 val 8 33e 06
+ESO INS SENS60 VAL,8.34e-06,3,8.34e-06,cientifica,sens60 val 8 34e 06
+ESO INS SENS60 VAL,8.36e-06,3,8.36e-06,cientifica,sens60 val 8 36e 06
+ESO INS SENS60 VAL,8.52e-06,3,8.52e-06,cientifica,sens60 val 8 52e 06
+ESO INS SENS60 VAL,8.57e-06,3,8.57e-06,cientifica,sens60 val 8 57e 06
+ESO INS SENS60 VAL,1.37e-05,3,1.37e-05,cientifica,sens60 val 1 37e 05
+ESO INS SENS60 VAL,8.44e-06,3,8.44e-06,cientifica,sens60 val 8 44e 06
+ESO INS SENS60 VAL,8.45e-06,3,8.45e-06,cientifica,sens60 val 8 45e 06
+ESO INS SENS60 VAL,8.55e-06,3,8.55e-06,cientifica,sens60 val 8 55e 06
+ESO INS SENS60 VAL,8.59e-06,3,8.59e-06,cientifica,sens60 val 8 59e 06
+ESO INS SENS60 VAL,8.76e-06,3,8.76e-06,cientifica,sens60 val 8 76e 06
+ESO INS SENS60 VAL,9.86e-06,3,9.86e-06,cientifica,sens60 val 9 86e 06
+ESO INS SENS60 VAL,9.32e-06,3,9.32e-06,cientifica,sens60 val 9 32e 06
+ESO INS SENS60 VAL,9.36e-06,3,9.36e-06,cientifica,sens60 val 9 36e 06
+ESO INS SENS60 VAL,9.7e-06,3,9.7e-06,cientifica,sens60 val 9 7e 06
+ESO INS SENS60 VAL,9.74e-06,3,9.74e-06,cientifica,sens60 val 9 74e 06
+ESO INS SENS60 VAL,9.82e-06,3,9.82e-06,cientifica,sens60 val 9 82e 06
+ESO INS SENS60 VAL,8.2e-06,3,8.2e-06,cientifica,sens60 val 8 2e 06
+ESO INS SENS60 VAL,7.86e-06,3,7.86e-06,cientifica,sens60 val 7 86e 06
+ESO INS SENS60 VAL,7.98e-06,3,7.98e-06,cientifica,sens60 val 7 98e 06
+ESO INS SENS60 VAL,8.15e-06,3,8.15e-06,cientifica,sens60 val 8 15e 06
+ESO INS SENS60 VAL,8.91e-06,3,8.91e-06,cientifica,sens60 val 8 91e 06
+ESO INS SENS60 VAL,7.43e-06,3,7.43e-06,cientifica,sens60 val 7 43e 06
+ESO INS SENS60 VAL,5.49e-06,3,5.49e-06,cientifica,sens60 val 5 49e 06
+ESO INS SENS60 VAL,6.34e-06,3,6.34e-06,cientifica,sens60 val 6 34e 06
+ESO INS SENS60 VAL,9.85e-06,2,9.85e-06,cientifica,sens60 val 9 85e 06
+ESO INS SENS60 VAL,1.73e-05,2,1.73e-05,cientifica,sens60 val 1 73e 05
+ESO INS SENS60 VAL,1.82e-05,2,1.82e-05,cientifica,sens60 val 1 82e 05
+ESO INS SENS60 VAL,9.64e-06,2,9.64e-06,cientifica,sens60 val 9 64e 06
+ESO INS SENS60 VAL,9.54e-06,2,9.54e-06,cientifica,sens60 val 9 54e 06
+ESO INS SENS60 VAL,9.49e-06,2,9.49e-06,cientifica,sens60 val 9 49e 06
+ESO INS SENS60 VAL,9.35e-06,2,9.35e-06,cientifica,sens60 val 9 35e 06
+ESO INS SENS60 VAL,9.27e-06,2,9.27e-06,cientifica,sens60 val 9 27e 06
+ESO INS SENS60 VAL,9.13e-06,2,9.13e-06,cientifica,sens60 val 9 13e 06
+ESO INS SENS60 VAL,9.1e-06,2,9.1e-06,cientifica,sens60 val 9 1e 06
+ESO INS SENS60 VAL,9e-06,2,9e-06,cientifica,sens60 val 9e 06
+ESO INS SENS60 VAL,8.96e-06,2,8.96e-06,cientifica,sens60 val 8 96e 06
+ESO INS SENS60 VAL,8.93e-06,2,8.93e-06,cientifica,sens60 val 8 93e 06
+ESO INS SENS60 VAL,8.83e-06,2,8.83e-06,cientifica,sens60 val 8 83e 06
+ESO INS SENS60 VAL,8.81e-06,2,8.81e-06,cientifica,sens60 val 8 81e 06
+ESO INS SENS60 VAL,8.07e-06,2,8.07e-06,cientifica,sens60 val 8 07e 06
+ESO INS SENS60 VAL,6.64e-06,2,6.64e-06,cientifica,sens60 val 6 64e 06
+ESO INS SENS60 VAL,6.78e-06,2,6.78e-06,cientifica,sens60 val 6 78e 06
+ESO INS SENS60 VAL,6.94e-06,2,6.94e-06,cientifica,sens60 val 6 94e 06
+ESO INS SENS60 VAL,6.99e-06,2,6.99e-06,cientifica,sens60 val 6 99e 06
+ESO INS SENS60 VAL,7.07e-06,2,7.07e-06,cientifica,sens60 val 7 07e 06
+ESO INS SENS60 VAL,7.06e-06,2,7.06e-06,cientifica,sens60 val 7 06e 06
+ESO INS SENS60 VAL,7.63e-06,2,7.63e-06,cientifica,sens60 val 7 63e 06
+ESO INS SENS60 VAL,7.68e-06,2,7.68e-06,cientifica,sens60 val 7 68e 06
+ESO INS SENS60 VAL,7.7e-06,2,7.7e-06,cientifica,sens60 val 7 7e 06
+ESO INS SENS60 VAL,7.87e-06,2,7.87e-06,cientifica,sens60 val 7 87e 06
+ESO INS SENS60 VAL,7.95e-06,2,7.95e-06,cientifica,sens60 val 7 95e 06
+ESO INS SENS60 VAL,7.97e-06,2,7.97e-06,cientifica,sens60 val 7 97e 06
+ESO INS SENS60 VAL,8.35e-06,2,8.35e-06,cientifica,sens60 val 8 35e 06
+ESO INS SENS60 VAL,8.41e-06,2,8.41e-06,cientifica,sens60 val 8 41e 06
+ESO INS SENS60 VAL,9.63e-06,2,9.63e-06,cientifica,sens60 val 9 63e 06
+ESO INS SENS60 VAL,1.13e-05,2,1.13e-05,cientifica,sens60 val 1 13e 05
+ESO INS SENS60 VAL,9.04e-06,2,9.04e-06,cientifica,sens60 val 9 04e 06
+ESO INS SENS60 VAL,9.44e-06,2,9.44e-06,cientifica,sens60 val 9 44e 06
+ESO INS SENS60 VAL,9.31e-06,2,9.31e-06,cientifica,sens60 val 9 31e 06
+ESO INS SENS60 VAL,9.45e-06,2,9.45e-06,cientifica,sens60 val 9 45e 06
+ESO INS SENS60 VAL,9.47e-06,2,9.47e-06,cientifica,sens60 val 9 47e 06
+ESO INS SENS60 VAL,9.53e-06,2,9.53e-06,cientifica,sens60 val 9 53e 06
+ESO INS SENS60 VAL,9.61e-06,2,9.61e-06,cientifica,sens60 val 9 61e 06
+ESO INS SENS60 VAL,9.71e-06,2,9.71e-06,cientifica,sens60 val 9 71e 06
+ESO INS SENS60 VAL,9.77e-06,2,9.77e-06,cientifica,sens60 val 9 77e 06
+ESO INS SENS60 VAL,1.38e-05,2,1.38e-05,cientifica,sens60 val 1 38e 05
+ESO INS SENS60 VAL,8.53e-06,2,8.53e-06,cientifica,sens60 val 8 53e 06
+ESO INS SENS60 VAL,7.79e-06,2,7.79e-06,cientifica,sens60 val 7 79e 06
+ESO INS SENS60 VAL,8e-06,2,8e-06,cientifica,sens60 val 8e 06
+ESO INS SENS60 VAL,8.1e-06,2,8.1e-06,cientifica,sens60 val 8 1e 06
+ESO INS SENS60 VAL,8.12e-06,2,8.12e-06,cientifica,sens60 val 8 12e 06
+ESO INS SENS60 VAL,8.5e-06,2,8.5e-06,cientifica,sens60 val 8 5e 06
+ESO INS SENS60 VAL,8.29e-06,2,8.29e-06,cientifica,sens60 val 8 29e 06
+ESO INS SENS60 VAL,8.63e-06,2,8.63e-06,cientifica,sens60 val 8 63e 06
+ESO INS SENS60 VAL,8.87e-06,2,8.87e-06,cientifica,sens60 val 8 87e 06
+ESO INS SENS60 VAL,9.87e-06,2,9.87e-06,cientifica,sens60 val 9 87e 06
+ESO INS SENS60 VAL,6.98e-06,2,6.98e-06,cientifica,sens60 val 6 98e 06
+ESO INS SENS60 VAL,6.82e-06,2,6.82e-06,cientifica,sens60 val 6 82e 06
+ESO INS SENS60 VAL,6.74e-06,2,6.74e-06,cientifica,sens60 val 6 74e 06
+ESO INS SENS60 VAL,6.73e-06,2,6.73e-06,cientifica,sens60 val 6 73e 06
+ESO INS SENS60 VAL,7.89e-06,2,7.89e-06,cientifica,sens60 val 7 89e 06
+ESO INS SENS60 VAL,7.94e-06,2,7.94e-06,cientifica,sens60 val 7 94e 06
+ESO INS SENS60 VAL,9.73e-06,2,9.73e-06,cientifica,sens60 val 9 73e 06
+ESO INS SENS60 VAL,7.62e-06,2,7.62e-06,cientifica,sens60 val 7 62e 06
+ESO INS SENS60 VAL,7.61e-06,2,7.61e-06,cientifica,sens60 val 7 61e 06
+ESO INS SENS60 VAL,1.12e-05,2,1.12e-05,cientifica,sens60 val 1 12e 05
+ESO INS SENS60 VAL,9.93e-06,1,9.93e-06,cientifica,sens60 val 9 93e 06
+ESO INS SENS60 VAL,1.59e-05,1,1.59e-05,cientifica,sens60 val 1 59e 05
+ESO INS SENS60 VAL,1.61e-05,1,1.61e-05,cientifica,sens60 val 1 61e 05
+ESO INS SENS60 VAL,1.67e-05,1,1.67e-05,cientifica,sens60 val 1 67e 05
+ESO INS SENS60 VAL,1.8e-05,1,1.8e-05,cientifica,sens60 val 1 8e 05
+ESO INS SENS60 VAL,1.81e-05,1,1.81e-05,cientifica,sens60 val 1 81e 05
+ESO INS SENS60 VAL,1.93e-05,1,1.93e-05,cientifica,sens60 val 1 93e 05
+ESO INS SENS60 VAL,1.75e-05,1,1.75e-05,cientifica,sens60 val 1 75e 05
+ESO INS SENS60 VAL,1.71e-05,1,1.71e-05,cientifica,sens60 val 1 71e 05
+ESO INS SENS60 VAL,1.68e-05,1,1.68e-05,cientifica,sens60 val 1 68e 05
+ESO INS SENS60 VAL,1.66e-05,1,1.66e-05,cientifica,sens60 val 1 66e 05
+ESO INS SENS60 VAL,1.64e-05,1,1.64e-05,cientifica,sens60 val 1 64e 05
+ESO INS SENS60 VAL,1.6e-05,1,1.6e-05,cientifica,sens60 val 1 6e 05
+ESO INS SENS60 VAL,1.58e-05,1,1.58e-05,cientifica,sens60 val 1 58e 05
+ESO INS SENS60 VAL,9.25e-06,1,9.25e-06,cientifica,sens60 val 9 25e 06
+ESO INS SENS60 VAL,9.17e-06,1,9.17e-06,cientifica,sens60 val 9 17e 06
+ESO INS SENS60 VAL,9.06e-06,1,9.06e-06,cientifica,sens60 val 9 06e 06
+ESO INS SENS60 VAL,9.03e-06,1,9.03e-06,cientifica,sens60 val 9 03e 06
+ESO INS SENS60 VAL,6.68e-06,1,6.68e-06,cientifica,sens60 val 6 68e 06
+ESO INS SENS60 VAL,6.72e-06,1,6.72e-06,cientifica,sens60 val 6 72e 06
+ESO INS SENS60 VAL,6.83e-06,1,6.83e-06,cientifica,sens60 val 6 83e 06
+ESO INS SENS60 VAL,6.89e-06,1,6.89e-06,cientifica,sens60 val 6 89e 06
+ESO INS SENS60 VAL,7.03e-06,1,7.03e-06,cientifica,sens60 val 7 03e 06
+ESO INS SENS60 VAL,7.05e-06,1,7.05e-06,cientifica,sens60 val 7 05e 06
+ESO INS SENS60 VAL,7.19e-06,1,7.19e-06,cientifica,sens60 val 7 19e 06
+ESO INS SENS60 VAL,7.34e-06,1,7.34e-06,cientifica,sens60 val 7 34e 06
+ESO INS SENS60 VAL,7.37e-06,1,7.37e-06,cientifica,sens60 val 7 37e 06
+ESO INS SENS60 VAL,7.4e-06,1,7.4e-06,cientifica,sens60 val 7 4e 06
+ESO INS SENS60 VAL,7.45e-06,1,7.45e-06,cientifica,sens60 val 7 45e 06
+ESO INS SENS60 VAL,7.47e-06,1,7.47e-06,cientifica,sens60 val 7 47e 06
+ESO INS SENS60 VAL,7.52e-06,1,7.52e-06,cientifica,sens60 val 7 52e 06
+ESO INS SENS60 VAL,7.55e-06,1,7.55e-06,cientifica,sens60 val 7 55e 06
+ESO INS SENS60 VAL,7.99e-06,1,7.99e-06,cientifica,sens60 val 7 99e 06
+ESO INS SENS60 VAL,8.09e-06,1,8.09e-06,cientifica,sens60 val 8 09e 06
+ESO INS SENS60 VAL,8.27e-06,1,8.27e-06,cientifica,sens60 val 8 27e 06
+ESO INS SENS60 VAL,8.28e-06,1,8.28e-06,cientifica,sens60 val 8 28e 06
+ESO INS SENS60 VAL,8.3e-06,1,8.3e-06,cientifica,sens60 val 8 3e 06
+ESO INS SENS60 VAL,8.4e-06,1,8.4e-06,cientifica,sens60 val 8 4e 06
+ESO INS SENS60 VAL,8.46e-06,1,8.46e-06,cientifica,sens60 val 8 46e 06
+ESO INS SENS60 VAL,9.08e-06,1,9.08e-06,cientifica,sens60 val 9 08e 06
+ESO INS SENS60 VAL,1.28e-05,1,1.28e-05,cientifica,sens60 val 1 28e 05
+ESO INS SENS60 VAL,8.6e-06,1,8.6e-06,cientifica,sens60 val 8 6e 06
+ESO INS SENS60 VAL,9.07e-06,1,9.07e-06,cientifica,sens60 val 9 07e 06
+ESO INS SENS60 VAL,9.51e-06,1,9.51e-06,cientifica,sens60 val 9 51e 06
+ESO INS SENS60 VAL,9.6e-06,1,9.6e-06,cientifica,sens60 val 9 6e 06
+ESO INS SENS60 VAL,8.05e-06,1,8.05e-06,cientifica,sens60 val 8 05e 06
+ESO INS SENS60 VAL,7.88e-06,1,7.88e-06,cientifica,sens60 val 7 88e 06
+ESO INS SENS60 VAL,7.93e-06,1,7.93e-06,cientifica,sens60 val 7 93e 06
+ESO INS SENS60 VAL,7.96e-06,1,7.96e-06,cientifica,sens60 val 7 96e 06
+ESO INS SENS60 VAL,8.02e-06,1,8.02e-06,cientifica,sens60 val 8 02e 06
+ESO INS SENS60 VAL,8.49e-06,1,8.49e-06,cientifica,sens60 val 8 49e 06
+ESO INS SENS60 VAL,8.66e-06,1,8.66e-06,cientifica,sens60 val 8 66e 06
+ESO INS SENS60 VAL,8.84e-06,1,8.84e-06,cientifica,sens60 val 8 84e 06
+ESO INS SENS60 VAL,8.95e-06,1,8.95e-06,cientifica,sens60 val 8 95e 06
+ESO INS SENS60 VAL,9.09e-06,1,9.09e-06,cientifica,sens60 val 9 09e 06
+ESO INS SENS60 VAL,9.15e-06,1,9.15e-06,cientifica,sens60 val 9 15e 06
+ESO INS SENS60 VAL,9.18e-06,1,9.18e-06,cientifica,sens60 val 9 18e 06
+ESO INS SENS60 VAL,6.97e-06,1,6.97e-06,cientifica,sens60 val 6 97e 06
+ESO INS SENS60 VAL,6.91e-06,1,6.91e-06,cientifica,sens60 val 6 91e 06
+ESO INS SENS60 VAL,6.76e-06,1,6.76e-06,cientifica,sens60 val 6 76e 06
+ESO INS SENS60 VAL,6.75e-06,1,6.75e-06,cientifica,sens60 val 6 75e 06
+ESO INS SENS60 VAL,6.77e-06,1,6.77e-06,cientifica,sens60 val 6 77e 06
+ESO INS SENS60 VAL,6.8e-06,1,6.8e-06,cientifica,sens60 val 6 8e 06
+ESO INS SENS60 VAL,6.9e-06,1,6.9e-06,cientifica,sens60 val 6 9e 06
+ESO INS SENS60 VAL,7.04e-06,1,7.04e-06,cientifica,sens60 val 7 04e 06
+ESO INS SENS60 VAL,7.09e-06,1,7.09e-06,cientifica,sens60 val 7 09e 06
+ESO INS SENS60 VAL,7.15e-06,1,7.15e-06,cientifica,sens60 val 7 15e 06
+ESO INS SENS60 VAL,7.22e-06,1,7.22e-06,cientifica,sens60 val 7 22e 06
+ESO INS SENS60 VAL,7.28e-06,1,7.28e-06,cientifica,sens60 val 7 28e 06
+ESO INS SENS60 VAL,7.35e-06,1,7.35e-06,cientifica,sens60 val 7 35e 06
+ESO INS SENS60 VAL,7.41e-06,1,7.41e-06,cientifica,sens60 val 7 41e 06
+ESO INS SENS60 VAL,7.49e-06,1,7.49e-06,cientifica,sens60 val 7 49e 06
+ESO INS SENS60 VAL,7.54e-06,1,7.54e-06,cientifica,sens60 val 7 54e 06
+ESO INS SENS60 VAL,7.91e-06,1,7.91e-06,cientifica,sens60 val 7 91e 06
+ESO INS SENS60 VAL,8.47e-06,1,8.47e-06,cientifica,sens60 val 8 47e 06
+ESO INS SENS60 VAL,8.65e-06,1,8.65e-06,cientifica,sens60 val 8 65e 06
+ESO INS SENS60 VAL,8.72e-06,1,8.72e-06,cientifica,sens60 val 8 72e 06
+ESO INS SENS60 VAL,9.16e-06,1,9.16e-06,cientifica,sens60 val 9 16e 06
+ESO INS SENS60 VAL,9.21e-06,1,9.21e-06,cientifica,sens60 val 9 21e 06
+ESO INS SENS60 VAL,9.28e-06,1,9.28e-06,cientifica,sens60 val 9 28e 06
+ESO INS SENS60 VAL,9.75e-06,1,9.75e-06,cientifica,sens60 val 9 75e 06
+ESO INS SENS60 VAL,8.88e-06,1,8.88e-06,cientifica,sens60 val 8 88e 06
+ESO INS SENS60 VAL,9.91e-06,1,9.91e-06,cientifica,sens60 val 9 91e 06
+ESO INS SENS60 VAL,7.69e-06,1,7.69e-06,cientifica,sens60 val 7 69e 06
+ESO INS SENS60 VAL,7.64e-06,1,7.64e-06,cientifica,sens60 val 7 64e 06
+ESO INS SENS60 VAL,8.03e-06,1,8.03e-06,cientifica,sens60 val 8 03e 06
+ESO INS SENS60 VAL,8.26e-06,1,8.26e-06,cientifica,sens60 val 8 26e 06
+ESO INS SENS60 VAL,8.74e-06,1,8.74e-06,cientifica,sens60 val 8 74e 06
+ESO INS SENS60 VAL,8.85e-06,1,8.85e-06,cientifica,sens60 val 8 85e 06
+ESO INS SENS60 VAL,9.01e-06,1,9.01e-06,cientifica,sens60 val 9 01e 06
+ESO INS SENS60 VAL,9.14e-06,1,9.14e-06,cientifica,sens60 val 9 14e 06
+ESO INS SENS60 VAL,9.41e-06,1,9.41e-06,cientifica,sens60 val 9 41e 06
+ESO INS SENS60 VAL,9.88e-06,1,9.88e-06,cientifica,sens60 val 9 88e 06
+ESO INS SENS60 VAL,8.54e-06,1,8.54e-06,cientifica,sens60 val 8 54e 06
+ESO OBS DID,ESO-VLT-DIC.OBS-2.2,1861,ESO-VLT-DIC.OBS-2.2,segmento no alfanumerico,obs did eso vlt dic obs 2 2
+ESO OBS NAME,SkyFlat-UBVRI-SDSS-zenith,100,SkyFlat-UBVRI-SDSS-zenith,sin digito,obs name skyflat ubvri sdss zenith
+ESO OBS NAME,EUCLJ0353-4950_slit1,29,EUCLJ0353-4950_slit1,segmento no alfanumerico,obs name euclj0353 4950_slit1
+ESO OBS NAME,UCAC4157-007263_3,18,UCAC4157-007263_3,segmento no alfanumerico,obs name ucac4157 007263_3
+ESO OBS NAME,FEIGE-110_nodding,15,FEIGE-110_nodding,segmento no alfanumerico,obs name feige 110_nodding
+ESO OBS NAME,J2246-1039_PAm60,9,J2246-1039_PAm60,segmento no alfanumerico,obs name j2246 1039_pam60
+ESO OBS NAME,epoch-12,9,epoch-12,HW,obs name epoch_12
+ESO OBS NAME,OGLE-LMC-ACEP-014,9,OGLE-LMC-ACEP-014,HW,obs name ogle_lmc_acep_014
+ESO OBS NAME,GALEX-J070134.1-671739_4,9,GALEX-J070134.1-671739_4,segmento no alfanumerico,obs name galex j070134 1 671739_4
+ESO OBS NAME,TYC5917-726-1_2,9,TYC5917-726-1_2,segmento no alfanumerico,obs name tyc5917 726 1_2
+ESO OBS NAME,Epoch-13,9,Epoch-13,HW,obs name epoch_13
+ESO OBS NAME,J0217-25A,9,J0217-25A,HW,obs name j0217_25a
+ESO OBS NAME,J0144-55AB_1,9,J0144-55AB_1,segmento no alfanumerico,obs name j0144 55ab_1
+ESO OBS NAME,GALEX-J052914.2-340108,9,GALEX-J052914.2-340108,segmento no alfanumerico,obs name galex j052914 2 340108
+ESO OBS NAME,epoch-13,9,epoch-13,HW,obs name epoch_13
+ESO OBS NAME,Epoch-14,9,Epoch-14,HW,obs name epoch_14
+ESO OBS PROG ID,60.A-9820(A),1568,60.A-9820,segmento no alfanumerico,obs prog id 60 a 9820 a
+ESO OBS PROG ID,60.A-9022(C),69,60.A-9022,segmento no alfanumerico,obs prog id 60 a 9022 c
+ESO OBS TARG NAME,EUCLJ0353-4950,29,EUCLJ0353-4950,HW,obs targ name euclj0353_4950
+ESO OBS TARG NAME,UCAC4 157-007263,18,157-007263,sin letra,obs targ name ucac4 157 007263
+ESO OBS TARG NAME,CPD-69 177,15,CPD-69,HW,obs targ name cpd_69 177
+ESO OBS TARG NAME,J224652-103902,9,J224652-103902,HW,obs targ name j224652_103902
+ESO OBS TARG NAME,OGLE-LMC-ACEP-014,9,OGLE-LMC-ACEP-014,HW,obs targ name ogle_lmc_acep_014
+ESO OBS TARG NAME,GALEX J070134.1-671739,9,J070134.1-671739,segmento no alfanumerico,obs targ name galex j070134 1 671739
+ESO OBS TARG NAME,TYC 5917-726-1,9,5917-726-1,sin letra,obs targ name tyc 5917 726 1
+ESO OBS TARG NAME,J0217-25A,9,J0217-25A,HW,obs targ name j0217_25a
+ESO OBS TARG NAME,J0144-55AB,9,J0144-55AB,HW,obs targ name j0144_55ab
+ESO OBS TARG NAME,GALEX J052914.2-340108,9,J052914.2-340108,segmento no alfanumerico,obs targ name galex j052914 2 340108
+ESO TEL DID,ESO-VLT-DIC.TCS,269,ESO-VLT-DIC.TCS,segmento no alfanumerico,tel did eso vlt dic tcs
+ESO TEL DOME STATUS,FULLY-OPEN,236,FULLY-OPEN,sin digito,tel dome status fully open
+ESO TEL TARG PMD,5e-05,15,5e-05,cientifica,tel targ pmd 5e 05
+ESO TPL DID,ESO-VLT-DIC.TPL-1.9,1861,ESO-VLT-DIC.TPL-1.9,segmento no alfanumerico,tpl did eso vlt dic tpl 1 9
+ESO TPL NAME,Stand-alone Daytime Calibration Template,1029,Stand-alone,sin digito,tpl name stand alone daytime calibration template
+ESO TPL NAME,Attached/Stand-alone Calibration Template,60,Stand-alone,sin digito,tpl name attached stand alone calibration template
+OBJECT,EUCLJ0353-4950,18,EUCLJ0353-4950,HW,object euclj0353_4950
+TELESCOP,ESO-VLT-U3,269,ESO-VLT-U3,HW,telescop eso_vlt_u3

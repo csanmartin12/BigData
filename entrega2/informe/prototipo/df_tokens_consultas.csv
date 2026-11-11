@@ -1,0 +1,12 @@
+consulta,texto,criterio_relevancia,n_relevantes,token,en_vocabulario,df_global,relevantes_con_token,N,idf_suavizado_ln((1+N)/(1+df))+1,idf_clasico_ln(N/df)
+A,flat sky,"ESO DPR TYPE=FLAT,SKY y DATE-OBS 2026-09-05",100,flat,True,628,100,1861,2.085275,1.086329
+A,flat sky,"ESO DPR TYPE=FLAT,SKY y DATE-OBS 2026-09-05",100,sky,True,100,100,1861,3.914286,2.923699
+B,filt b,ESO INS FILT1 NAME=B,10,filt,False,0,0,1861,8.529406,
+B,filt b,ESO INS FILT1 NAME=B,10,b,True,10,10,1861,6.131511,5.226284
+C,exp type normal,ESO DET EXP TYPE=Normal,1232,exp,True,1861,1232,1861,1.0,0.0
+C,exp type normal,ESO DET EXP TYPE=Normal,1232,type,True,1861,1232,1861,1.0,0.0
+C,exp type normal,ESO DET EXP TYPE=Normal,1232,normal,True,1861,1232,1861,1.0,0.0
+D,ins opti 1.6x11,ESO INS OPTI3 NAME=1.6x11,58,ins,False,0,0,1861,8.529406,
+D,ins opti 1.6x11,ESO INS OPTI3 NAME=1.6x11,58,opti,False,0,0,1861,8.529406,
+D,ins opti 1.6x11,ESO INS OPTI3 NAME=1.6x11,58,1_6x11,True,58,58,1861,4.451869,3.468426
+E,,"RA en [84,85] y DEC en [-70,-69] (solo numérica)",18,,,,,1861,,
