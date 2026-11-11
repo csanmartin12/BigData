@@ -1,0 +1,12 @@
+Consultas cortas: {'generadas': 200, 'reemplazadas': 480, 'motivos_reemplazo': {'todos_df_N': 480, 'vacia': 0}, 'distintas': 142, 'largo_medio': 2.605, 'por_largo': {1: 35, 2: 37, 3: 100, 4: 28}}
+  tfidf sin centrar: mejor según el criterio b=2 L=8 radio=2 -> recall tol 0.969 costo 0.9087 (11 s)
+  tfidf centrado: mejor según el criterio b=2 L=8 radio=2 -> recall tol 0.952 costo 0.8293 (18 s)
+  -> tfidf [cortas = OFICIAL]: b = 2, L = 8, radio = 2, centrado = True (menor costo medio con recall tolerante ≥ 0.90 (12 de 120 cumplen)); recall tol 0.952 estr 0.921 costo 0.8293; EN EL BORDE: ['b = 2', 'radio = 2']
+  -> tfidf [documentos, secundario]: b = 16, L = 16, radio = 2, centrado = True (menor costo medio con recall tolerante ≥ 0.90 (87 de 120 cumplen)); recall tol 0.948 estr 0.858 costo 0.0906; EN EL BORDE: ['b = 16', 'L = 16', 'radio = 2']
+  lsi sin centrar: mejor según el criterio b=2 L=8 radio=2 -> recall tol 0.930 costo 0.9191 (21 s)
+  lsi centrado: mejor según el criterio b=2 L=8 radio=2 -> recall tol 0.914 costo 0.8712 (25 s)
+  -> lsi [cortas = OFICIAL]: b = 2, L = 8, radio = 2, centrado = True (menor costo medio con recall tolerante ≥ 0.90 (12 de 120 cumplen)); recall tol 0.914 estr 0.914 costo 0.8712; EN EL BORDE: ['b = 2', 'radio = 2']
+  -> lsi [documentos, secundario]: b = 16, L = 1, radio = 2, centrado = True (menor costo medio con recall tolerante ≥ 0.90 (120 de 120 cumplen)); recall tol 0.940 estr 0.920 costo 0.0240; EN EL BORDE: ['b = 16', 'L = 1', 'radio = 2']
+-> informe/validacion_v2_lsh.csv, informe/validacion_cortas_lsh.png
+Persistido en indice/: {'tfidf': (2, 8, 2, True), 'lsi': (2, 8, 2, True)} (25 s en total)
+exit=0

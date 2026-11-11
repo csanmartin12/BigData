@@ -1,0 +1,17 @@
+modelo,optim,consulta,recall_estricto,recall_tolerante,resultados,examinados,examinados_linea_base,puntaje_10_linea_base,empatados_en_puntaje_10_linea_base
+tfidf,kmeans,A,1.0,1.0,10,100,433,0.157709,1
+tfidf,kmeans,B,1.0,1.0,10,100,1861,0.072443,1
+tfidf,kmeans,C,0.5,0.6,10,12,1861,0.104104,2
+tfidf,kmeans,D,0.0,0.0,6,6,1861,0.050015,10
+tfidf,lsh,A,0.0,0.0,0,0,433,0.157709,1
+tfidf,lsh,B,0.0,0.0,0,0,1861,0.072443,1
+tfidf,lsh,C,0.0,0.0,0,0,1861,0.104104,2
+tfidf,lsh,D,0.0,0.0,0,0,1861,0.050015,10
+lsi,kmeans,A,1.0,1.0,10,100,433,0.727922,10
+lsi,kmeans,B,1.0,1.0,10,100,1861,0.768921,2
+lsi,kmeans,C,0.2,0.2,2,2,1861,0.537833,1
+lsi,kmeans,D,0.8,0.8,8,8,1861,0.625152,2
+lsi,lsh,A,1.0,1.0,10,100,433,0.727922,10
+lsi,lsh,B,1.0,1.0,10,100,1861,0.768921,2
+lsi,lsh,C,0.5,0.5,5,5,1861,0.537833,1
+lsi,lsh,D,0.0,0.0,10,16,1861,0.625152,2

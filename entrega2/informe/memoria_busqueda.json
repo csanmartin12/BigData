@@ -1,0 +1,35 @@
+{
+  "antes_de_cargar": {
+    "rss_mib": 54.5,
+    "pico_rss_mib": 54.5,
+    "ru_maxrss_mib": 53.6
+  },
+  "despues_de_cargar_indices": {
+    "rss_mib": 107.9,
+    "pico_rss_mib": 211.7,
+    "ru_maxrss_mib": 211.7
+  },
+  "despues_de_las_30_consultas": {
+    "rss_mib": 116.1,
+    "pico_rss_mib": 211.7,
+    "ru_maxrss_mib": 211.7
+  },
+  "nota": "RSS del proceso de búsqueda (Buscador + 30 consultas); los headers para marcar relevancia se cargan después de medir",
+  "segundos_carga": 0.3,
+  "estructuras_mib": {
+    "tfidf_csr": 5.89,
+    "espacios_densos_normalizados": {
+      "tfidf": 35.45,
+      "lsi": 0.2
+    },
+    "lsi_U_k_y_docs_k": 0.47,
+    "kmeans": {
+      "tfidf": 0.64,
+      "lsi": 0.03
+    },
+    "lsh": {
+      "tfidf": 0.53,
+      "lsi": 0.23
+    }
+  }
+}

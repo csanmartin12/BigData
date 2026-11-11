@@ -1,0 +1,17 @@
+modelo,optim,consulta,recall_tol_antes,recall_tol_despues,recall_estr_antes,recall_estr_despues,examinados_antes,examinados_despues,relevantes_top5_antes,relevantes_top5_despues
+tfidf,kmeans,A,1.0,1.0,1.0,1.0,100,100,5,5
+tfidf,kmeans,B,1.0,1.0,1.0,1.0,100,100,5,5
+tfidf,kmeans,C,0.6,0.6,0.5,0.5,12,30,5,5
+tfidf,kmeans,D,0.0,0.0,0.0,0.0,6,30,5,5
+tfidf,lsh,A,0.0,1.0,0.0,0.9,0,376,0,5
+tfidf,lsh,B,0.0,1.0,0.0,1.0,0,1742,0,5
+tfidf,lsh,C,0.0,0.5,0.0,0.5,0,1308,0,5
+tfidf,lsh,D,0.0,0.0,0.0,0.0,0,1598,0,5
+lsi,kmeans,A,1.0,1.0,1.0,1.0,100,100,5,5
+lsi,kmeans,B,1.0,1.0,1.0,1.0,100,100,0,0
+lsi,kmeans,C,0.2,0.8,0.2,0.7,2,32,2,5
+lsi,kmeans,D,0.8,1.0,0.8,0.2,8,73,1,0
+lsi,lsh,A,1.0,1.0,1.0,1.0,100,327,5,5
+lsi,lsh,B,1.0,1.0,1.0,1.0,100,1539,0,0
+lsi,lsh,C,0.5,1.0,0.5,1.0,5,1696,5,5
+lsi,lsh,D,0.0,1.0,0.0,1.0,16,1735,1,1

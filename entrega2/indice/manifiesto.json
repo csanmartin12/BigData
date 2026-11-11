@@ -1,0 +1,369 @@
+{
+  "fecha_utc": "2026-11-11T16:16:01+00:00",
+  "fuente": "mongodb://localhost:27017 eso.xshooter, campo header",
+  "modo_campos": "texto",
+  "N": 1861,
+  "tamano_vocabulario": 2497,
+  "idf": "suavizado",
+  "tf": "conteo crudo",
+  "normalizacion": "L2 por documento",
+  "lsi": {
+    "k": 14,
+    "umbral": 0.9,
+    "criterio": "sin_primera",
+    "descripcion_criterio": "menor k con sum_(2<=i<=k) s_i^2 / sum_(i>=2) s_i^2 >= 90% (sin la primera componente, que se conserva en el modelo)",
+    "varianza_explicada_k": 0.9802782309990952,
+    "varianza_sin_primera_k": 0.9003179983771359,
+    "n_valores_singulares": 1861,
+    "transformacion": "x_k = Sigma_k^-1 U_k^T x (documentos y consultas)"
+  },
+  "hash_datos_entrada": "c1c50b4f98d56273efe570f3d86ef505ce8e75078bc2ae6761357cc139304b4c",
+  "hash_tokenizador": "4da6afa16d739c1bf848a7d920ce8179a18d1a3be6ca0a357a8206f703611e30",
+  "versiones": {
+    "numpy": "2.5.4",
+    "scipy": "1.18.1"
+  },
+  "archivos": {
+    "df.npy": {
+      "sha256": "92f9d69c949a5d13d321c3100d1c8e322e0b9bce5194b9032e7e3f9e022e81e9",
+      "bytes": 20104
+    },
+    "doc_ids.json": {
+      "sha256": "bee28737f747fd423d5f6e7fe01d832f70aaf3fc09e3c541ebe9d2a4f4fd2479",
+      "bytes": 70718
+    },
+    "idf.npy": {
+      "sha256": "28c7d34ce21a240188f743f5ae7d2964302c2bb3e6a07247248dc48254248038",
+      "bytes": 20104
+    },
+    "kmeans_lsi_asignacion.npy": {
+      "sha256": "a1a0d3d3b9c674676abc132d47e36ebafde23b6b6c2fbaf9a90d013322f62a19",
+      "bytes": 15016
+    },
+    "kmeans_lsi_centroides.npy": {
+      "sha256": "7ed59d7d5ea0710e5b2d1b617d85c9f8f936508ad8bfccd33ab0625342cc318f",
+      "bytes": 3712
+    },
+    "kmeans_lsi_inverso_docs.npy": {
+      "sha256": "fabd925f954aee39e9c79f82ecd23215a894185b9f7c8947664af80b7719c1c7",
+      "bytes": 15016
+    },
+    "kmeans_lsi_inverso_indptr.npy": {
+      "sha256": "add252a113369ba9b5faa651b40eafff4d83ac4a40ab2464c75f4f087c80b367",
+      "bytes": 392
+    },
+    "kmeans_tfidf_asignacion.npy": {
+      "sha256": "53d84aebcaf0306ea9502a20c524cf1a4508d5bfb0593eada821966fc49a155d",
+      "bytes": 15016
+    },
+    "kmeans_tfidf_centroides.npy": {
+      "sha256": "29a46bcb28a279b1755ef8dba67002d4ea67cedd9c92c66240e8cd3e6245a312",
+      "bytes": 639360
+    },
+    "kmeans_tfidf_inverso_docs.npy": {
+      "sha256": "21230261d639689a3bdc04627da760609eebc75a43aa9585c9edb7aceead0220",
+      "bytes": 15016
+    },
+    "kmeans_tfidf_inverso_indptr.npy": {
+      "sha256": "5cb6a42267e8b9406073ce787bb6e7cb07bde62818bd4e2a395a2a88382adba2",
+      "bytes": 392
+    },
+    "lsh_lsi_buckets.npz": {
+      "sha256": "a4609256e9061eb8d7aad0a544fd8c13302f93e06a424f394540d27667af4697",
+      "bytes": 125670
+    },
+    "lsh_lsi_firmas.npy": {
+      "sha256": "da76f51899ef2cb620b6ccb936ca901d48e7781ed1c6881ac2b6afc7ceeae44e",
+      "bytes": 119232
+    },
+    "lsh_lsi_hiperplanos.npy": {
+      "sha256": "4781089d3264084e3bd93eabe36e0efd18cfba76c8fff1f1f35c03a36ce6e5d4",
+      "bytes": 1920
+    },
+    "lsh_lsi_media.npy": {
+      "sha256": "c08770b490aea07b3ce5ceaf6ebffce992b6deeb7f24d88e9bed0b412fc9c561",
+      "bytes": 240
+    },
+    "lsh_tfidf_buckets.npz": {
+      "sha256": "a9ee4cab572cc05b84406adb0e0183ac68479356a9732d56b9a4d9f1fd6dd7d6",
+      "bytes": 125670
+    },
+    "lsh_tfidf_firmas.npy": {
+      "sha256": "3fcc0b7b9f3a6f748152b9de83301e120749e2ee530af1f0f480fe807b7f1cff",
+      "bytes": 119232
+    },
+    "lsh_tfidf_hiperplanos.npy": {
+      "sha256": "6dc9df37dfa4533a428220a75b80298010758d2645be343464b6ad7fbb596eb2",
+      "bytes": 319744
+    },
+    "lsh_tfidf_media.npy": {
+      "sha256": "973e2dd289e0a15a754f4c53b53d4a394a3e575ec68ca51542a726f592013ff0",
+      "bytes": 20104
+    },
+    "lsi_U_k.npy": {
+      "sha256": "48a15f7efb6b93067fba58dac8a009808a5c0c25c0a897457036e72efe2693d1",
+      "bytes": 279792
+    },
+    "lsi_docs_k.npy": {
+      "sha256": "9e2e48d2d9c7d462ccb8cc1b9911c40b1ba44a25f7447ded6087a6c1a247d9d1",
+      "bytes": 208560
+    },
+    "lsi_sigma.npy": {
+      "sha256": "c1ff8cf3ce4798fc3d1983854101b7c8ed9928a1bf390329d5de75bdecd3713d",
+      "bytes": 15016
+    },
+    "lsi_sigma_k.npy": {
+      "sha256": "36ad364c3ab141dd8896364b8130eeb40afb91832f0e64f9676d0c841b81e9f7",
+      "bytes": 240
+    },
+    "tfidf.npz": {
+      "sha256": "eb43a5d3d76ce01d16ba73b3cbdf005005d107655f8fd21a27150b513fc206e6",
+      "bytes": 411748
+    },
+    "vocabulario.json": {
+      "sha256": "6e4b4fbe1c6f1333ecfd51a42893c3aa597dbf625f86536321578960d0a19e31",
+      "bytes": 67611
+    }
+  },
+  "verificaciones": {
+    "max_abs_docs_k_menos_V_k": 5.329070518200751e-15,
+    "rango_numerico": 1777,
+    "max_abs_reconstruccion_rango_completo": 1.5231976988852765e-13
+  },
+  "diagnostico_espectro": {
+    "sigma1_cuadrado_sobre_total": 0.8021531602513349,
+    "energia_vector_medio_sobre_total": 0.7882461800551539,
+    "coseno_medio_entre_documentos": 0.7881323339153973
+  },
+  "k_por_umbral": {
+    "sin_primera": {
+      "0.50": 2,
+      "0.70": 3,
+      "0.80": 5,
+      "0.90": 14,
+      "0.95": 54,
+      "0.99": 1278
+    },
+    "energia": {
+      "0.50": 1,
+      "0.70": 1,
+      "0.80": 1,
+      "0.90": 2,
+      "0.95": 4,
+      "0.99": 53
+    }
+  },
+  "kmeans": {
+    "semilla": 20261111,
+    "n_init": 10,
+    "algoritmo": "sklearn.cluster.KMeans (Lloyd) solo para centroides",
+    "asignacion": "coseno maximo (a mano)",
+    "n_probe_por_defecto": 1,
+    "protocolo": "Fase 4b: elección con 200 consultas cortas (semilla 20261112); documentos completos secundario",
+    "criterio": "menor costo medio con recall tolerante medio >= 0.90 (n_probe = 1); desempate mayor recall, menor c",
+    "consultas_cortas": {
+      "generadas": 200,
+      "reemplazadas": 480,
+      "motivos_reemplazo": {
+        "todos_df_N": 480,
+        "vacia": 0
+      },
+      "distintas": 142,
+      "largo_medio": 2.605,
+      "por_largo": {
+        "1": 35,
+        "2": 37,
+        "3": 100,
+        "4": 28
+      }
+    },
+    "base": {
+      "tfidf.npz": "eb43a5d3d76ce01d16ba73b3cbdf005005d107655f8fd21a27150b513fc206e6",
+      "lsi_docs_k.npy": "9e2e48d2d9c7d462ccb8cc1b9911c40b1ba44a25f7447ded6087a6c1a247d9d1"
+    },
+    "espacios": {
+      "tfidf": {
+        "n_clusteres": 32,
+        "motivo": "ninguna configuración llega a 0.90: se elige la de mayor recall tolerante (limitación)",
+        "en_borde_de_grilla": false,
+        "archivos": [
+          "kmeans_tfidf_centroides.npy",
+          "kmeans_tfidf_asignacion.npy",
+          "kmeans_tfidf_inverso_indptr.npy",
+          "kmeans_tfidf_inverso_docs.npy"
+        ],
+        "cortas": {
+          "recall_tolerante": 0.8835,
+          "recall_estricto": 0.88,
+          "costo": 0.04217893605588394
+        },
+        "documentos": {
+          "recall_tolerante": 0.9810000000000001,
+          "recall_estricto": 0.9765,
+          "costo": 0.04639247311827957
+        },
+        "eleccion_con_documentos_secundaria": {
+          "n_clusteres": 64,
+          "recall_tolerante": 0.9464999999999999,
+          "costo": 0.027021505376344086
+        },
+        "tam_min": 12,
+        "tam_mediana": 51.5,
+        "tam_max": 196,
+        "vacios": 0,
+        "unitarios": 0,
+        "silueta_coseno": 0.4128763343505376,
+        "inercia_sklearn": 31.063100837177117
+      },
+      "lsi": {
+        "n_clusteres": 32,
+        "motivo": "ninguna configuración llega a 0.90: se elige la de mayor recall tolerante (limitación)",
+        "en_borde_de_grilla": false,
+        "archivos": [
+          "kmeans_lsi_centroides.npy",
+          "kmeans_lsi_asignacion.npy",
+          "kmeans_lsi_inverso_indptr.npy",
+          "kmeans_lsi_inverso_docs.npy"
+        ],
+        "cortas": {
+          "recall_tolerante": 0.8805,
+          "recall_estricto": 0.8645,
+          "costo": 0.04093229446534122
+        },
+        "documentos": {
+          "recall_tolerante": 0.985,
+          "recall_estricto": 0.9840000000000001,
+          "costo": 0.042650537634408604
+        },
+        "eleccion_con_documentos_secundaria": {
+          "n_clusteres": 64,
+          "recall_tolerante": 0.9719999999999999,
+          "costo": 0.029736559139784947
+        },
+        "tam_min": 16,
+        "tam_mediana": 55.5,
+        "tam_max": 178,
+        "vacios": 0,
+        "unitarios": 0,
+        "silueta_coseno": 0.8381012038137594,
+        "inercia_sklearn": 95.96209405630952
+      }
+    },
+    "actualizado_utc": "2026-11-11T17:02:34+00:00"
+  },
+  "lsh": {
+    "semilla": 20261111,
+    "hiperplanos": "numpy.random.default_rng(semilla).normal(0, 1, (L, b, d))",
+    "bit": "1 si H·(x - media) >= 0 (media = 0 sin centrado)",
+    "multiprobe": "Hamming 1..radio_max (sin pasar de b) mientras haya menos de K = 10 candidatos",
+    "protocolo": "Fase 4b: elección con 200 consultas cortas (semilla 20261112); documentos completos secundario",
+    "criterio": "menor costo medio con recall tolerante medio >= 0.90; desempate mayor recall, menor L*b, menor radio, sin centrado",
+    "consultas_cortas": {
+      "generadas": 200,
+      "reemplazadas": 480,
+      "motivos_reemplazo": {
+        "todos_df_N": 480,
+        "vacia": 0
+      },
+      "distintas": 142,
+      "largo_medio": 2.605,
+      "por_largo": {
+        "1": 35,
+        "2": 37,
+        "3": 100,
+        "4": 28
+      }
+    },
+    "base": {
+      "tfidf.npz": "eb43a5d3d76ce01d16ba73b3cbdf005005d107655f8fd21a27150b513fc206e6",
+      "lsi_docs_k.npy": "9e2e48d2d9c7d462ccb8cc1b9911c40b1ba44a25f7447ded6087a6c1a247d9d1"
+    },
+    "espacios": {
+      "tfidf": {
+        "n_bits": 2,
+        "n_tablas": 8,
+        "radio_max": 2,
+        "centrado": true,
+        "motivo": "menor costo medio con recall tolerante ≥ 0.90 (12 de 120 cumplen)",
+        "en_borde_de_grilla": [
+          "b = 2",
+          "radio = 2"
+        ],
+        "archivos": [
+          "lsh_tfidf_hiperplanos.npy",
+          "lsh_tfidf_firmas.npy",
+          "lsh_tfidf_buckets.npz",
+          "lsh_tfidf_media.npy"
+        ],
+        "cortas": {
+          "recall_tolerante": 0.9519999999999998,
+          "recall_estricto": 0.9209999999999999,
+          "costo": 0.8293417517463729
+        },
+        "documentos": {
+          "recall_tolerante": 1.0,
+          "recall_estricto": 1.0,
+          "costo": 0.751508064516129
+        },
+        "eleccion_con_documentos_secundaria": {
+          "n_bits": 16,
+          "n_tablas": 16,
+          "radio_max": 2,
+          "centrado": true,
+          "recall_tolerante": 0.9484999999999999,
+          "costo": 0.09058064516129033
+        },
+        "bucket_min": 63,
+        "bucket_mediana": 396.0,
+        "bucket_max": 1124,
+        "grupos_identicos": 0,
+        "docs_en_grupos_identicos": 0,
+        "casi_identicos_mismo_bucket_por_tabla": 0.7945825759542976,
+        "casi_identicos_mismo_bucket_en_alguna_tabla": 1.0
+      },
+      "lsi": {
+        "n_bits": 2,
+        "n_tablas": 8,
+        "radio_max": 2,
+        "centrado": true,
+        "motivo": "menor costo medio con recall tolerante ≥ 0.90 (12 de 120 cumplen)",
+        "en_borde_de_grilla": [
+          "b = 2",
+          "radio = 2"
+        ],
+        "archivos": [
+          "lsh_lsi_hiperplanos.npy",
+          "lsh_lsi_firmas.npy",
+          "lsh_lsi_buckets.npz",
+          "lsh_lsi_media.npy"
+        ],
+        "cortas": {
+          "recall_tolerante": 0.914,
+          "recall_estricto": 0.914,
+          "costo": 0.8712036539494895
+        },
+        "documentos": {
+          "recall_tolerante": 1.0,
+          "recall_estricto": 1.0,
+          "costo": 0.8522150537634409
+        },
+        "eleccion_con_documentos_secundaria": {
+          "n_bits": 16,
+          "n_tablas": 1,
+          "radio_max": 2,
+          "centrado": true,
+          "recall_tolerante": 0.94,
+          "costo": 0.02396505376344086
+        },
+        "bucket_min": 275,
+        "bucket_mediana": 445.0,
+        "bucket_max": 668,
+        "grupos_identicos": 327,
+        "docs_en_grupos_identicos": 1612,
+        "casi_identicos_mismo_bucket_por_tabla": 1.0,
+        "casi_identicos_mismo_bucket_en_alguna_tabla": 1.0
+      }
+    },
+    "actualizado_utc": "2026-11-11T17:03:12+00:00"
+  }
+}
