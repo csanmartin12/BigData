@@ -1,0 +1,9 @@
+# Configuración global de WSL2 (afecta a TODAS las distribuciones y a Docker Desktop).
+# Ubicación obligatoria: C:\Users\<usuario>\.wslconfig  (en PowerShell: $env:USERPROFILE\.wslconfig)
+# Tras copiarlo, aplicar con:  wsl --shutdown
+# Verificar dentro de Ubuntu con:  free -h   (total ≈ 19 GiB)
+
+[wsl2]
+# Límite de RAM de la VM de WSL2 (32 GB físicos; se dejan ~12 GB a Windows).
+# MongoDB, HDFS (namenode + datanode) y Spark corren todos dentro de este límite.
+memory=20GB

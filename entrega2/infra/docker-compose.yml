@@ -1,0 +1,77 @@
+# Servicios de la Entrega 2: MongoDB (buscador) + HDFS de un solo nodo (FITS).
+#
+#   docker compose -f infra/docker-compose.yml up -d
+#   docker compose -f infra/docker-compose.yml ps
+#
+# Volúmenes persistentes (sobreviven a `down`; se borran solo con `down -v`):
+#   entrega2_mongo-data, entrega2_hdfs-namenode, entrega2_hdfs-datanode
+#
+# Puertos publicados solo en 127.0.0.1 (sin autenticación: uso local).
+name: entrega2
+
+services:
+  mongo:
+    image: mongo:8.0
+    container_name: e2-mongo
+    # Caché de WiredTiger acotada: todo corre dentro del límite de 20 GB de la VM de WSL2.
+    command: ["mongod", "--wiredTigerCacheSizeGB", "2"]
+    ports:
+      - "127.0.0.1:27017:27017"
+    volumes:
+      - mongo-data:/data/db
+    healthcheck:
+      test: ["CMD", "mongosh", "--quiet", "--eval", "db.adminCommand('ping').ok"]
+      interval: 10s
+      timeout: 5s
+      retries: 12
+    restart: unless-stopped
+
+  namenode:
+    image: apache/hadoop:3.4.1
+    container_name: e2-namenode
+    hostname: namenode
+    command: ["hdfs", "namenode"]
+    env_file: hadoop.env
+    environment:
+      # Formatea el namenode solo si el directorio no existe (primer arranque del volumen).
+      ENSURE_NAMENODE_DIR: /data/namenode
+      HDFS_NAMENODE_OPTS: "-Xmx1g"
+    ports:
+      - "127.0.0.1:9870:9870"   # web UI + WebHDFS
+      - "127.0.0.1:8020:8020"   # RPC (cliente HDFS de Spark/Hadoop)
+    volumes:
+      - hdfs-namenode:/data
+    healthcheck:
+      test: ["CMD", "curl", "-sf", "http://localhost:9870/webhdfs/v1/?op=GETFILESTATUS&user.name=hadoop"]
+      interval: 10s
+      timeout: 5s
+      retries: 12
+    restart: unless-stopped
+
+  datanode:
+    image: apache/hadoop:3.4.1
+    container_name: e2-datanode
+    hostname: datanode
+    command: ["hdfs", "datanode"]
+    env_file: hadoop.env
+    environment:
+      HDFS_DATANODE_OPTS: "-Xmx1g"
+      # El datanode se anuncia como "localhost": las redirecciones de WebHDFS
+      # (http://localhost:9864/...) y el cliente HDFS de WSL (localhost:9866) llegan por los
+      # puertos publicados. Las IP internas de Docker Desktop no son accesibles desde WSL.
+      HDFS-SITE.XML_dfs.datanode.hostname: localhost
+    ports:
+      - "127.0.0.1:9864:9864"   # HTTP / WebHDFS del datanode
+      - "127.0.0.1:9866:9866"   # transferencia de datos
+      - "127.0.0.1:9867:9867"   # IPC
+    volumes:
+      - hdfs-datanode:/data
+    depends_on:
+      namenode:
+        condition: service_healthy
+    restart: unless-stopped
+
+volumes:
+  mongo-data:
+  hdfs-namenode:
+  hdfs-datanode:

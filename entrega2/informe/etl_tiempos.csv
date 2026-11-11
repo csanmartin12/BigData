@@ -1,0 +1,5 @@
+corrida,cache,fecha_utc,n_fits,mb,plan_s,arranque_spark_s,etl_s,indices_s,total_s,mb_por_s,fits_por_s,insertados,omitidos_identicos,revision,extraer_pct,hdfs_pct,particiones,workers_python,en_tareas_spark,en_corriente,modo_ac,condiciones_validas,standby_windows_mb,archivo
+1,fría,20261111T160316Z,1861,14812.2,0.04,4.9,75.69,0.06,81.88,195.7,24.6,1861,0,0,51.8,45.5,42,14,True,True,Máximo rendimiento,True,3050,etl_20261111T160316Z_completo_v2_1.json
+2,tibia,20261111T160547Z,1861,14812.2,0.03,4.91,76.09,0.1,82.34,194.7,24.5,1861,0,0,52.7,44.3,42,14,True,True,Máximo rendimiento,True,2777,etl_20261111T160547Z_completo_v2_2.json
+3,tibia,20261111T160814Z,1861,14812.2,0.03,4.48,75.67,0.08,81.43,195.8,24.6,1861,0,0,52.2,45.0,42,14,True,True,Máximo rendimiento,True,2634,etl_20261111T160814Z_completo_v2_3.json
+mediana,,,,,,,75.69,,81.88,195.7,24.6,,,,,,,,,,,,,
