@@ -1,0 +1,11 @@
+modelo,consulta,p5_auto,p5_manual,p5,fuente,discrepancias_auto_manual
+tfidf,A,1.0,,1.0,auto (pendiente de revisión manual),0
+tfidf,B,1.0,,1.0,auto (pendiente de revisión manual),0
+tfidf,C,1.0,,1.0,auto (pendiente de revisión manual),0
+tfidf,D,1.0,,1.0,auto (pendiente de revisión manual),0
+tfidf,E,1.0,,1.0,auto (pendiente de revisión manual),0
+lsi,A,1.0,,1.0,auto (pendiente de revisión manual),0
+lsi,B,0.0,,0.0,auto (pendiente de revisión manual),0
+lsi,C,1.0,,1.0,auto (pendiente de revisión manual),0
+lsi,D,0.2,,0.2,auto (pendiente de revisión manual),0
+lsi,E,1.0,,1.0,auto (pendiente de revisión manual),0

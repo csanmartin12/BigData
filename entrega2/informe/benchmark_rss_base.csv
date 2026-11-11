@@ -1,0 +1,7 @@
+configuracion,carga_indices_s,rss_despues_de_cargar_mib,rss_despues_de_calentar_mib,vmhwm_mib,rss_tras_ultima_consulta_mib
+TF-IDF,0.238,98.7,106.2,209.6,107.1
+TF-IDF + K-Means,0.234,98.7,101.0,209.8,101.3
+TF-IDF + LSH,0.24,98.7,129.5,209.2,129.8
+LSI,0.198,63.1,63.7,68.0,64.1
+LSI + K-Means,0.184,63.0,63.7,67.8,64.0
+LSI + LSH,0.162,63.3,64.0,67.9,64.4
